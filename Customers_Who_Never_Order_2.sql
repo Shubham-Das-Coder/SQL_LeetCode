@@ -1,5 +1,5 @@
 /*
-Link to the question : https://leetcode.com/problems/customers-who-never-order/description/
+Link to the question : https://leetcode.com/problems/customers-who-never-order/
 Leetcode question number : 183
 */
 select c.name as customers
